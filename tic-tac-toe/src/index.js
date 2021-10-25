@@ -63,7 +63,6 @@ function Square(props){
             stepNumber:0,
             xIsNext: true,
             descendingOrder:false
-            
         };
     }
     handleWinnerStyle(winner,i){
